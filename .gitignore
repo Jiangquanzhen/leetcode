@@ -25,7 +25,5 @@ hs_err_pid*
 
 #idea
 .idea/**
-*/untitled.iml
-com/com.iml
+leetcode.iml
 com/src/MainTest.java
-
