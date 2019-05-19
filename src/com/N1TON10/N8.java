@@ -1,4 +1,4 @@
-package com;
+package com.N1TON10;
 
 public class N8 {
     public int myAtoi(String str) {

@@ -1,4 +1,4 @@
-package com;
+package com.N1TON10;
 
 public class N4 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

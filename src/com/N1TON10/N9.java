@@ -1,4 +1,4 @@
-package com;
+package com.N1TON10;
 
 public class N9 {
     public boolean isPalindrome(int x) {

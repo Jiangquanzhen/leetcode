@@ -1,4 +1,4 @@
-package com;
+package com.N10TO20;
 
 public class N11 {
     public int maxArea(int[] height) {
