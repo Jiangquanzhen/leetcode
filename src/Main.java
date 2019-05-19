@@ -1,13 +1,14 @@
 
-import com.N1041;
-import com.N5;
+import com.N11;
+import com.N9;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        N1041 n = new N1041();
-        System.out.println(n.isRobotBounded("GLGLGGLGL"));
+        N11 n = new N11();
+        int[] a = {1,8,6,2,5,4,8,3,7};
+        System.out.println(n.maxArea(a));
     }
 
 }
