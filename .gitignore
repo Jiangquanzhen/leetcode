@@ -27,3 +27,6 @@ hs_err_pid*
 .idea/**
 leetcode.iml
 com/src/MainTest.java
+/bin/
+.classpath
+.project
